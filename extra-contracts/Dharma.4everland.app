@@ -1,0 +1,9 @@
+ [(*)]
+RUNDOM 
+100 USER DHARMA POLYGON 
+10 WETH @20 [200WETH]
+300 WETH @50 [15.000 WETH] / TX DAPPS
+900 WETH @30 [27.000 WETH] / tx yellow
+
+[(€)]
+[($)]
